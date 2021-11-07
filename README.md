@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MashoAdo
-- 👀 I’m interested in creating Beatifull well functioning websites.
+- 👀 I’m interested in creating visually appealing and well functioning WEB APPS.
 - 🌱 I’m currently brushing up on MERN STACK.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 you can contact me through my personal email mashoado@gmail.com ,or directly to my line +254 724 261 655.
