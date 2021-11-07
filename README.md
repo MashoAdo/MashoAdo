@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MashoAdo
-- 👀 I’m interested in creating beatiful UI and effective UX.
-- 🌱 I’m currently learning React and GraphQl.
+- 👀 I’m interested in creating Beatifull well functioning websites.
+- 🌱 I’m currently brushing up on MERN STACK.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 you can contact me through my personal email mashoado@gmail.com ,or directly to my line +254 724 261 655.
 
