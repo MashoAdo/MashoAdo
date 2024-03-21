@@ -1,4 +1,1 @@
-Full Stack Web Developer.
-proficient in React,Node.js, SQL.
-Interests --> Rust & Networking for Backend development.
-
+Full stack Dev . React || Typescript || Node || SQL. Interests: Rust || Networking || Databases
